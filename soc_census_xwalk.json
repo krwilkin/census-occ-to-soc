@@ -1,0 +1,2537 @@
+[
+    {
+        "occ_title": "Chief executives",
+        "cenocc": "0010",
+        "soc": "11-1011"
+    },
+    {
+        "occ_title": "General and operations managers",
+        "cenocc": "0020",
+        "soc": "11-1021"
+    },
+    {
+        "occ_title": "Legislators",
+        "cenocc": "0030",
+        "soc": "11-1031"
+    },
+    {
+        "occ_title": "Advertising and promotions managers",
+        "cenocc": "0040",
+        "soc": "11-2011"
+    },
+    {
+        "occ_title": "Marketing managers",
+        "cenocc": "0051",
+        "soc": "11-2021"
+    },
+    {
+        "occ_title": "Sales managers",
+        "cenocc": "0052",
+        "soc": "11-2022"
+    },
+    {
+        "occ_title": "Public relations and fundraising managers",
+        "cenocc": "0060",
+        "soc": "11-2030"
+    },
+    {
+        "occ_title": "Administrative services managers",
+        "cenocc": "0101",
+        "soc": "11-3012"
+    },
+    {
+        "occ_title": "Facilities managers",
+        "cenocc": "0102",
+        "soc": "11-3013"
+    },
+    {
+        "occ_title": "Computer and information systems managers",
+        "cenocc": "0110",
+        "soc": "11-3021"
+    },
+    {
+        "occ_title": "Financial managers",
+        "cenocc": "0120",
+        "soc": "11-3031"
+    },
+    {
+        "occ_title": "Compensation and benefits managers",
+        "cenocc": "0135",
+        "soc": "11-3111"
+    },
+    {
+        "occ_title": "Human resources managers",
+        "cenocc": "0136",
+        "soc": "11-3121"
+    },
+    {
+        "occ_title": "Training and development managers",
+        "cenocc": "0137",
+        "soc": "11-3131"
+    },
+    {
+        "occ_title": "Industrial production managers",
+        "cenocc": "0140",
+        "soc": "11-3051"
+    },
+    {
+        "occ_title": "Purchasing managers",
+        "cenocc": "0150",
+        "soc": "11-3061"
+    },
+    {
+        "occ_title": "Transportation, storage, and distribution managers",
+        "cenocc": "0160",
+        "soc": "11-3071"
+    },
+    {
+        "occ_title": "Farmers, ranchers, and other agricultural managers",
+        "cenocc": "0205",
+        "soc": "11-9013"
+    },
+    {
+        "occ_title": "Construction managers",
+        "cenocc": "0220",
+        "soc": "11-9021"
+    },
+    {
+        "occ_title": "Education and childcare administrators ",
+        "cenocc": "0230",
+        "soc": "11-9030"
+    },
+    {
+        "occ_title": "Architectural and engineering managers",
+        "cenocc": "0300",
+        "soc": "11-9041"
+    },
+    {
+        "occ_title": "Food service managers",
+        "cenocc": "0310",
+        "soc": "11-9051"
+    },
+    {
+        "occ_title": "Funeral home managers",
+        "cenocc": "0325",
+        "soc": "11-9171"
+    },
+    {
+        "occ_title": "Entertainment and recreation managers",
+        "cenocc": "0335",
+        "soc": "11-9070"
+    },
+    {
+        "occ_title": "Lodging managers",
+        "cenocc": "0340",
+        "soc": "11-9081"
+    },
+    {
+        "occ_title": "Medical and health services managers",
+        "cenocc": "0350",
+        "soc": "11-9111"
+    },
+    {
+        "occ_title": "Natural sciences managers",
+        "cenocc": "0360",
+        "soc": "11-9121"
+    },
+    {
+        "occ_title": "Postmasters and mail superintendents",
+        "cenocc": "0400",
+        "soc": "11-9131"
+    },
+    {
+        "occ_title": "Property, real estate, and community association managers",
+        "cenocc": "0410",
+        "soc": "11-9141"
+    },
+    {
+        "occ_title": "Social and community service managers",
+        "cenocc": "0420",
+        "soc": "11-9151"
+    },
+    {
+        "occ_title": "Emergency management directors",
+        "cenocc": "0425",
+        "soc": "11-9161"
+    },
+    {
+        "occ_title": "Personal service managers, all other",
+        "cenocc": "0426",
+        "soc": "11-9179"
+    },
+    {
+        "occ_title": "Managers, all other",
+        "cenocc": "0440",
+        "soc": "11-9199"
+    },
+    {
+        "occ_title": "Agents and business managers of artists, performers, and athletes",
+        "cenocc": "0500",
+        "soc": "13-1011"
+    },
+    {
+        "occ_title": "Buyers and purchasing agents, farm products",
+        "cenocc": "0510",
+        "soc": "13-1021"
+    },
+    {
+        "occ_title": "Wholesale and retail buyers, except farm products",
+        "cenocc": "0520",
+        "soc": "13-1022"
+    },
+    {
+        "occ_title": "Purchasing agents, except wholesale, retail, and farm products",
+        "cenocc": "0530",
+        "soc": "13-1023"
+    },
+    {
+        "occ_title": "Claims adjusters, appraisers, examiners, and investigators",
+        "cenocc": "0540",
+        "soc": "13-1030"
+    },
+    {
+        "occ_title": "Compliance officers",
+        "cenocc": "0565",
+        "soc": "13-1041"
+    },
+    {
+        "occ_title": "Cost estimators",
+        "cenocc": "0600",
+        "soc": "13-1051"
+    },
+    {
+        "occ_title": "Human resources workers",
+        "cenocc": "0630",
+        "soc": "13-1070"
+    },
+    {
+        "occ_title": "Compensation, benefits, and job analysis specialists",
+        "cenocc": "0640",
+        "soc": "13-1141"
+    },
+    {
+        "occ_title": "Training and development specialists",
+        "cenocc": "0650",
+        "soc": "13-1151"
+    },
+    {
+        "occ_title": "Logisticians",
+        "cenocc": "0700",
+        "soc": "13-1081"
+    },
+    {
+        "occ_title": "Project management specialists",
+        "cenocc": "0705",
+        "soc": "13-1082"
+    },
+    {
+        "occ_title": "Management analysts",
+        "cenocc": "0710",
+        "soc": "13-1111"
+    },
+    {
+        "occ_title": "Meeting, convention, and event planners",
+        "cenocc": "0725",
+        "soc": "13-1121"
+    },
+    {
+        "occ_title": "Fundraisers",
+        "cenocc": "0726",
+        "soc": "13-1131"
+    },
+    {
+        "occ_title": "Market research analysts and marketing specialists",
+        "cenocc": "0735",
+        "soc": "13-1161"
+    },
+    {
+        "occ_title": "Business operations specialists, all other",
+        "cenocc": "0750",
+        "soc": "13-1199"
+    },
+    {
+        "occ_title": "Accountants and auditors",
+        "cenocc": "0800",
+        "soc": "13-2011"
+    },
+    {
+        "occ_title": "Property appraisers and assessors",
+        "cenocc": "0810",
+        "soc": "13-2020"
+    },
+    {
+        "occ_title": "Budget analysts",
+        "cenocc": "0820",
+        "soc": "13-2031"
+    },
+    {
+        "occ_title": "Credit analysts",
+        "cenocc": "0830",
+        "soc": "13-2041"
+    },
+    {
+        "occ_title": "Financial and investment analysts",
+        "cenocc": "0845",
+        "soc": "13-2051"
+    },
+    {
+        "occ_title": "Personal financial advisors",
+        "cenocc": "0850",
+        "soc": "13-2052"
+    },
+    {
+        "occ_title": "Insurance underwriters",
+        "cenocc": "0860",
+        "soc": "13-2053"
+    },
+    {
+        "occ_title": "Financial examiners",
+        "cenocc": "0900",
+        "soc": "13-2061"
+    },
+    {
+        "occ_title": "Credit counselors and loan officers",
+        "cenocc": "0910",
+        "soc": "13-2070"
+    },
+    {
+        "occ_title": "Tax examiners and collectors, and revenue agents",
+        "cenocc": "0930",
+        "soc": "13-2081"
+    },
+    {
+        "occ_title": "Tax preparers",
+        "cenocc": "0940",
+        "soc": "13-2082"
+    },
+    {
+        "occ_title": "Other financial specialists",
+        "cenocc": "0960",
+        "soc": "13-20XX"
+    },
+    {
+        "occ_title": "Software quality assurance analysts and testers",
+        "cenocc": "1022",
+        "soc": "15-1253"
+    },
+    {
+        "occ_title": "Web developers",
+        "cenocc": "1031",
+        "soc": "15-1254"
+    },
+    {
+        "occ_title": "Web and digital interface designers",
+        "cenocc": "1032",
+        "soc": "15-1255"
+    },
+    {
+        "occ_title": "Database administrators and architects",
+        "cenocc": "1065",
+        "soc": "15-124X"
+    },
+    {
+        "occ_title": "Computer occupations, all other",
+        "cenocc": "1108",
+        "soc": "15-1299"
+    },
+    {
+        "occ_title": "Actuaries",
+        "cenocc": "1200",
+        "soc": "15-2011"
+    },
+    {
+        "occ_title": "Mathematicians",
+        "cenocc": "1210",
+        "soc": "15-2021"
+    },
+    {
+        "occ_title": "Operations research analysts",
+        "cenocc": "1220",
+        "soc": "15-2031"
+    },
+    {
+        "occ_title": "Statisticians",
+        "cenocc": "1230",
+        "soc": "15-2041"
+    },
+    {
+        "occ_title": "Other mathematical science occupations",
+        "cenocc": "1240",
+        "soc": "15-20XX"
+    },
+    {
+        "occ_title": "Surveyors, cartographers, and photogrammetrists",
+        "cenocc": "1310",
+        "soc": "17-1020"
+    },
+    {
+        "occ_title": "Aerospace engineers",
+        "cenocc": "1320",
+        "soc": "17-2011"
+    },
+    {
+        "occ_title": "Agricultural engineers",
+        "cenocc": "1330",
+        "soc": "17-2021"
+    },
+    {
+        "occ_title": "Bioengineers and biomedical engineers",
+        "cenocc": "1340",
+        "soc": "17-2031"
+    },
+    {
+        "occ_title": "Chemical engineers",
+        "cenocc": "1350",
+        "soc": "17-2041"
+    },
+    {
+        "occ_title": "Civil engineers",
+        "cenocc": "1360",
+        "soc": "17-2051"
+    },
+    {
+        "occ_title": "Computer hardware engineers",
+        "cenocc": "1400",
+        "soc": "17-2061"
+    },
+    {
+        "occ_title": "Electrical and electronics engineers",
+        "cenocc": "1410",
+        "soc": "17-2070"
+    },
+    {
+        "occ_title": "Environmental engineers",
+        "cenocc": "1420",
+        "soc": "17-2081"
+    },
+    {
+        "occ_title": "Industrial engineers, including health and safety ",
+        "cenocc": "1430",
+        "soc": "17-2110"
+    },
+    {
+        "occ_title": "Marine engineers and naval architects",
+        "cenocc": "1440",
+        "soc": "17-2121"
+    },
+    {
+        "occ_title": "Materials engineers",
+        "cenocc": "1450",
+        "soc": "17-2131"
+    },
+    {
+        "occ_title": "Mechanical engineers",
+        "cenocc": "1460",
+        "soc": "17-2141"
+    },
+    {
+        "occ_title": "Mining and geological engineers, including mining safety engineers",
+        "cenocc": "1500",
+        "soc": "17-2151"
+    },
+    {
+        "occ_title": "Nuclear engineers",
+        "cenocc": "1510",
+        "soc": "17-2161"
+    },
+    {
+        "occ_title": "Petroleum engineers",
+        "cenocc": "1520",
+        "soc": "17-2171"
+    },
+    {
+        "occ_title": "Engineers, all other",
+        "cenocc": "1530",
+        "soc": "17-2199"
+    },
+    {
+        "occ_title": "Architectural and civil drafters",
+        "cenocc": "1541",
+        "soc": "17-3011"
+    },
+    {
+        "occ_title": "Other drafters",
+        "cenocc": "1545",
+        "soc": "17-301X"
+    },
+    {
+        "occ_title": "Electrical and electronic engineering technologists and technicians",
+        "cenocc": "1551",
+        "soc": "17-3023"
+    },
+    {
+        "occ_title": "Other engineering technologists and technicians, except drafters",
+        "cenocc": "1555",
+        "soc": "17-302X"
+    },
+    {
+        "occ_title": "Surveying and mapping technicians",
+        "cenocc": "1560",
+        "soc": "17-3031"
+    },
+    {
+        "occ_title": "Agricultural and food scientists",
+        "cenocc": "1600",
+        "soc": "19-1010"
+    },
+    {
+        "occ_title": "Biological scientists",
+        "cenocc": "1610",
+        "soc": "19-1020"
+    },
+    {
+        "occ_title": "Conservation scientists and foresters",
+        "cenocc": "1640",
+        "soc": "19-1030"
+    },
+    {
+        "occ_title": "Medical scientists",
+        "cenocc": "1650",
+        "soc": "19-1040"
+    },
+    {
+        "occ_title": "Life scientists, all other",
+        "cenocc": "1660",
+        "soc": "19-1099"
+    },
+    {
+        "occ_title": "Astronomers and physicists",
+        "cenocc": "1700",
+        "soc": "19-2010"
+    },
+    {
+        "occ_title": "Atmospheric and space scientists",
+        "cenocc": "1710",
+        "soc": "19-2021"
+    },
+    {
+        "occ_title": "Chemists and materials scientists",
+        "cenocc": "1720",
+        "soc": "19-2030"
+    },
+    {
+        "occ_title": "Environmental scientists and specialists, including health",
+        "cenocc": "1745",
+        "soc": "19-2041"
+    },
+    {
+        "occ_title": "Geoscientists and hydrologists, except geographers",
+        "cenocc": "1750",
+        "soc": "19-204X"
+    },
+    {
+        "occ_title": "Physical scientists, all other",
+        "cenocc": "1760",
+        "soc": "19-2099"
+    },
+    {
+        "occ_title": "Economists",
+        "cenocc": "1800",
+        "soc": "19-3011"
+    },
+    {
+        "occ_title": "Survey researchers",
+        "cenocc": "1815",
+        "soc": "19-3022"
+    },
+    {
+        "occ_title": "Sociologists",
+        "cenocc": "1830",
+        "soc": "19-3041"
+    },
+    {
+        "occ_title": "Urban and regional planners",
+        "cenocc": "1840",
+        "soc": "19-3051"
+    },
+    {
+        "occ_title": "Miscellaneous social scientists and related workers",
+        "cenocc": "1860",
+        "soc": "19-3090"
+    },
+    {
+        "occ_title": "Agricultural and food science technicians",
+        "cenocc": "1900",
+        "soc": "19-4010"
+    },
+    {
+        "occ_title": "Biological technicians",
+        "cenocc": "1910",
+        "soc": "19-4021"
+    },
+    {
+        "occ_title": "Chemical technicians",
+        "cenocc": "1920",
+        "soc": "19-4031"
+    },
+    {
+        "occ_title": "Environmental  science and geoscience technicians",
+        "cenocc": "1935",
+        "soc": "19-4040"
+    },
+    {
+        "occ_title": "Nuclear technicians",
+        "cenocc": "1940",
+        "soc": "19-4051"
+    },
+    {
+        "occ_title": "Social science research assistants",
+        "cenocc": "1950",
+        "soc": "19-4061"
+    },
+    {
+        "occ_title": "Other life, physical, and social science technicians",
+        "cenocc": "1970",
+        "soc": "19-40XX"
+    },
+    {
+        "occ_title": "Occupational health and safety specialists and technicians",
+        "cenocc": "1980",
+        "soc": "19-5010"
+    },
+    {
+        "occ_title": "Probation officers and correctional treatment specialists",
+        "cenocc": "2015",
+        "soc": "21-1092"
+    },
+    {
+        "occ_title": "Social and human service assistants",
+        "cenocc": "2016",
+        "soc": "21-1093"
+    },
+    {
+        "occ_title": "Other community and social service specialists",
+        "cenocc": "2025",
+        "soc": "21-109X"
+    },
+    {
+        "occ_title": "Clergy",
+        "cenocc": "2040",
+        "soc": "21-2011"
+    },
+    {
+        "occ_title": "Directors, religious activities and education",
+        "cenocc": "2050",
+        "soc": "21-2021"
+    },
+    {
+        "occ_title": "Religious workers, all other",
+        "cenocc": "2060",
+        "soc": "21-2099"
+    },
+    {
+        "occ_title": "Lawyers",
+        "cenocc": "2100",
+        "soc": "23-1011"
+    },
+    {
+        "occ_title": "Judicial law clerks",
+        "cenocc": "2105",
+        "soc": "23-1012"
+    },
+    {
+        "occ_title": "Judges, magistrates, and other judicial workers",
+        "cenocc": "2110",
+        "soc": "23-1020"
+    },
+    {
+        "occ_title": "Paralegals and legal assistants",
+        "cenocc": "2145",
+        "soc": "23-2011"
+    },
+    {
+        "occ_title": "Title examiners, abstractors, and searchers",
+        "cenocc": "2170",
+        "soc": "23-2093"
+    },
+    {
+        "occ_title": "Legal support workers, all other",
+        "cenocc": "2180",
+        "soc": "23-2099"
+    },
+    {
+        "occ_title": "Postsecondary teachers",
+        "cenocc": "2205",
+        "soc": "25-1000"
+    },
+    {
+        "occ_title": "Preschool and kindergarten teachers",
+        "cenocc": "2300",
+        "soc": "25-2010"
+    },
+    {
+        "occ_title": "Elementary and middle school teachers",
+        "cenocc": "2310",
+        "soc": "25-2020"
+    },
+    {
+        "occ_title": "Secondary school teachers",
+        "cenocc": "2320",
+        "soc": "25-2030"
+    },
+    {
+        "occ_title": "Special education teachers",
+        "cenocc": "2330",
+        "soc": "25-2050"
+    },
+    {
+        "occ_title": "Tutors",
+        "cenocc": "2350",
+        "soc": "25-3041"
+    },
+    {
+        "occ_title": "Other teachers and instructors",
+        "cenocc": "2360",
+        "soc": "25-30XX"
+    },
+    {
+        "occ_title": "Archivists, curators, and museum technicians",
+        "cenocc": "2400",
+        "soc": "25-4010"
+    },
+    {
+        "occ_title": "Librarians and media collections specialists",
+        "cenocc": "2435",
+        "soc": "25-4022"
+    },
+    {
+        "occ_title": "Library technicians",
+        "cenocc": "2440",
+        "soc": "25-4031"
+    },
+    {
+        "occ_title": "Teaching assistants",
+        "cenocc": "2545",
+        "soc": "25-9040"
+    },
+    {
+        "occ_title": "Other educational instruction and library workers",
+        "cenocc": "2555",
+        "soc": "25-90XX"
+    },
+    {
+        "occ_title": "Artists and related workers",
+        "cenocc": "2600",
+        "soc": "27-1010"
+    },
+    {
+        "occ_title": "Actors",
+        "cenocc": "2700",
+        "soc": "27-2011"
+    },
+    {
+        "occ_title": "Producers and directors",
+        "cenocc": "2710",
+        "soc": "27-2012"
+    },
+    {
+        "occ_title": "Dancers and choreographers",
+        "cenocc": "2740",
+        "soc": "27-2030"
+    },
+    {
+        "occ_title": "Music directors and composers",
+        "cenocc": "2751",
+        "soc": "27-2041"
+    },
+    {
+        "occ_title": "Musicians and singers",
+        "cenocc": "2752",
+        "soc": "27-2042"
+    },
+    {
+        "occ_title": "Disc jockeys, except radio ",
+        "cenocc": "2755",
+        "soc": "27-2091"
+    },
+    {
+        "occ_title": "Entertainers and performers, sports and related workers, all other",
+        "cenocc": "2770",
+        "soc": "27-2099"
+    },
+    {
+        "occ_title": "News analysts, reporters, and journalists",
+        "cenocc": "2810",
+        "soc": "27-3023"
+    },
+    {
+        "occ_title": "Public relations specialists",
+        "cenocc": "2825",
+        "soc": "27-3031"
+    },
+    {
+        "occ_title": "Editors",
+        "cenocc": "2830",
+        "soc": "27-3041"
+    },
+    {
+        "occ_title": "Technical writers",
+        "cenocc": "2840",
+        "soc": "27-3042"
+    },
+    {
+        "occ_title": "Writers and authors",
+        "cenocc": "2850",
+        "soc": "27-3043"
+    },
+    {
+        "occ_title": "Interpreters and translators",
+        "cenocc": "2861",
+        "soc": "27-3091"
+    },
+    {
+        "occ_title": "Court reporters and simultaneous captioners",
+        "cenocc": "2862",
+        "soc": "27-3092"
+    },
+    {
+        "occ_title": "Media and communication workers, all other",
+        "cenocc": "2865",
+        "soc": "27-3099"
+    },
+    {
+        "occ_title": "Broadcast, sound, and lighting technicians",
+        "cenocc": "2905",
+        "soc": "27-4010"
+    },
+    {
+        "occ_title": "Photographers",
+        "cenocc": "2910",
+        "soc": "27-4021"
+    },
+    {
+        "occ_title": "Television, video, and film camera operators and editors",
+        "cenocc": "2920",
+        "soc": "27-4030"
+    },
+    {
+        "occ_title": "Media and communication equipment workers, all other",
+        "cenocc": "2970",
+        "soc": "27-4099"
+    },
+    {
+        "occ_title": "Chiropractors",
+        "cenocc": "3000",
+        "soc": "29-1011"
+    },
+    {
+        "occ_title": "Dentists",
+        "cenocc": "3010",
+        "soc": "29-1020"
+    },
+    {
+        "occ_title": "Dietitians and nutritionists",
+        "cenocc": "3030",
+        "soc": "29-1031"
+    },
+    {
+        "occ_title": "Optometrists",
+        "cenocc": "3040",
+        "soc": "29-1041"
+    },
+    {
+        "occ_title": "Pharmacists",
+        "cenocc": "3050",
+        "soc": "29-1051"
+    },
+    {
+        "occ_title": "Emergency medicine physicians",
+        "cenocc": "3065",
+        "soc": "29-1214"
+    },
+    {
+        "occ_title": "Radiologists",
+        "cenocc": "3070",
+        "soc": "29-1224"
+    },
+    {
+        "occ_title": "Other physicians",
+        "cenocc": "3090",
+        "soc": "29-12XX"
+    },
+    {
+        "occ_title": "Surgeons",
+        "cenocc": "3100",
+        "soc": "29-1240"
+    },
+    {
+        "occ_title": "Physician assistants",
+        "cenocc": "3110",
+        "soc": "29-1071"
+    },
+    {
+        "occ_title": "Podiatrists",
+        "cenocc": "3120",
+        "soc": "29-1081"
+    },
+    {
+        "occ_title": "Audiologists",
+        "cenocc": "3140",
+        "soc": "29-1181"
+    },
+    {
+        "occ_title": "Occupational therapists",
+        "cenocc": "3150",
+        "soc": "29-1122"
+    },
+    {
+        "occ_title": "Physical therapists",
+        "cenocc": "3160",
+        "soc": "29-1123"
+    },
+    {
+        "occ_title": "Radiation therapists",
+        "cenocc": "3200",
+        "soc": "29-1124"
+    },
+    {
+        "occ_title": "Recreational therapists",
+        "cenocc": "3210",
+        "soc": "29-1125"
+    },
+    {
+        "occ_title": "Respiratory therapists",
+        "cenocc": "3220",
+        "soc": "29-1126"
+    },
+    {
+        "occ_title": "Speech-language pathologists",
+        "cenocc": "3230",
+        "soc": "29-1127"
+    },
+    {
+        "occ_title": "Exercise physiologists",
+        "cenocc": "3235",
+        "soc": "29-1128"
+    },
+    {
+        "occ_title": "Therapists, all other",
+        "cenocc": "3245",
+        "soc": "29-1129"
+    },
+    {
+        "occ_title": "Veterinarians",
+        "cenocc": "3250",
+        "soc": "29-1131"
+    },
+    {
+        "occ_title": "Registered nurses",
+        "cenocc": "3255",
+        "soc": "29-1141"
+    },
+    {
+        "occ_title": "Nurse anesthetists",
+        "cenocc": "3256",
+        "soc": "29-1151"
+    },
+    {
+        "occ_title": "Nurse midwives",
+        "cenocc": "3257",
+        "soc": "29-1161"
+    },
+    {
+        "occ_title": "Nurse practitioners",
+        "cenocc": "3258",
+        "soc": "29-1171"
+    },
+    {
+        "occ_title": "Acupuncturists",
+        "cenocc": "3261",
+        "soc": "29-1291"
+    },
+    {
+        "occ_title": "Healthcare diagnosing or treating practitioners, all other",
+        "cenocc": "3270",
+        "soc": "29-1299"
+    },
+    {
+        "occ_title": "Clinical laboratory technologists and technicians",
+        "cenocc": "3300",
+        "soc": "29-2010"
+    },
+    {
+        "occ_title": "Dental hygienists",
+        "cenocc": "3310",
+        "soc": "29-1292"
+    },
+    {
+        "occ_title": "Cardiovascular technologists and technicians",
+        "cenocc": "3321",
+        "soc": "29-2031"
+    },
+    {
+        "occ_title": "Diagnostic medical sonographers",
+        "cenocc": "3322",
+        "soc": "29-2032"
+    },
+    {
+        "occ_title": "Radiologic technologists and technicians",
+        "cenocc": "3323",
+        "soc": "29-2034"
+    },
+    {
+        "occ_title": "Magnetic resonance imaging technologists",
+        "cenocc": "3324",
+        "soc": "29-2035"
+    },
+    {
+        "occ_title": "Nuclear medicine technologists and medical dosimetrists",
+        "cenocc": "3330",
+        "soc": "29-203X"
+    },
+    {
+        "occ_title": "Emergency medical technicians",
+        "cenocc": "3401",
+        "soc": "29-2042"
+    },
+    {
+        "occ_title": "Dietetic technicians and ophthalmic medical technicians",
+        "cenocc": "3430",
+        "soc": "29-205X"
+    },
+    {
+        "occ_title": "Licensed practical and licensed vocational nurses",
+        "cenocc": "3500",
+        "soc": "29-2061"
+    },
+    {
+        "occ_title": "Opticians, dispensing",
+        "cenocc": "3520",
+        "soc": "29-2081"
+    },
+    {
+        "occ_title": "Other healthcare practitioners and technical occupations",
+        "cenocc": "3550",
+        "soc": "29-9000"
+    },
+    {
+        "occ_title": "Personal care aides",
+        "cenocc": "3602",
+        "soc": "31-1122"
+    },
+    {
+        "occ_title": "Orderlies and psychiatric aides",
+        "cenocc": "3605",
+        "soc": "31-113X"
+    },
+    {
+        "occ_title": "Occupational therapy assistants and aides",
+        "cenocc": "3610",
+        "soc": "31-2010"
+    },
+    {
+        "occ_title": "Physical therapist assistants and aides",
+        "cenocc": "3620",
+        "soc": "31-2020"
+    },
+    {
+        "occ_title": "Massage therapists",
+        "cenocc": "3630",
+        "soc": "31-9011"
+    },
+    {
+        "occ_title": "Dental assistants",
+        "cenocc": "3640",
+        "soc": "31-9091"
+    },
+    {
+        "occ_title": "Medical assistants",
+        "cenocc": "3645",
+        "soc": "31-9092"
+    },
+    {
+        "occ_title": "Medical transcriptionists",
+        "cenocc": "3646",
+        "soc": "31-9094"
+    },
+    {
+        "occ_title": "Pharmacy aides",
+        "cenocc": "3647",
+        "soc": "31-9095"
+    },
+    {
+        "occ_title": "Veterinary assistants and laboratory animal caretakers",
+        "cenocc": "3648",
+        "soc": "31-9096"
+    },
+    {
+        "occ_title": "Phlebotomists",
+        "cenocc": "3649",
+        "soc": "31-9097"
+    },
+    {
+        "occ_title": "Other healthcare support workers",
+        "cenocc": "3655",
+        "soc": "31-909X"
+    },
+    {
+        "occ_title": "First-line supervisors of correctional officers",
+        "cenocc": "3700",
+        "soc": "33-1011"
+    },
+    {
+        "occ_title": "First-line supervisors of police and detectives",
+        "cenocc": "3710",
+        "soc": "33-1012"
+    },
+    {
+        "occ_title": "First-line supervisors of firefighting and prevention workers",
+        "cenocc": "3720",
+        "soc": "33-1021"
+    },
+    {
+        "occ_title": "First-line supervisors of security workers",
+        "cenocc": "3725",
+        "soc": "33-1091"
+    },
+    {
+        "occ_title": "First-line supervisors of protective service workers, all other",
+        "cenocc": "3735",
+        "soc": "33-1099"
+    },
+    {
+        "occ_title": "Firefighters",
+        "cenocc": "3740",
+        "soc": "33-2011"
+    },
+    {
+        "occ_title": "Fire inspectors ",
+        "cenocc": "3750",
+        "soc": "33-2020"
+    },
+    {
+        "occ_title": "Detectives and criminal investigators",
+        "cenocc": "3820",
+        "soc": "33-3021"
+    },
+    {
+        "occ_title": "Fish and game wardens",
+        "cenocc": "3830",
+        "soc": "33-3031"
+    },
+    {
+        "occ_title": "Parking enforcement workers",
+        "cenocc": "3840",
+        "soc": "33-3041"
+    },
+    {
+        "occ_title": "Police officers",
+        "cenocc": "3870",
+        "soc": "33-3050"
+    },
+    {
+        "occ_title": "Animal control workers",
+        "cenocc": "3900",
+        "soc": "33-9011"
+    },
+    {
+        "occ_title": "Private detectives and investigators",
+        "cenocc": "3910",
+        "soc": "33-9021"
+    },
+    {
+        "occ_title": "Security guards and gambling surveillance officers",
+        "cenocc": "3930",
+        "soc": "33-9030"
+    },
+    {
+        "occ_title": "Transportation security screeners",
+        "cenocc": "3945",
+        "soc": "33-9093"
+    },
+    {
+        "occ_title": "Other protective service workers",
+        "cenocc": "3960",
+        "soc": "33-909X"
+    },
+    {
+        "occ_title": "Chefs and head cooks",
+        "cenocc": "4000",
+        "soc": "35-1011"
+    },
+    {
+        "occ_title": "First-line supervisors of food preparation and serving workers",
+        "cenocc": "4010",
+        "soc": "35-1012"
+    },
+    {
+        "occ_title": "Cooks",
+        "cenocc": "4020",
+        "soc": "35-2010"
+    },
+    {
+        "occ_title": "Food preparation workers",
+        "cenocc": "4030",
+        "soc": "35-2021"
+    },
+    {
+        "occ_title": "Bartenders",
+        "cenocc": "4040",
+        "soc": "35-3011"
+    },
+    {
+        "occ_title": "Fast food and counter workers",
+        "cenocc": "4055",
+        "soc": "35-3023"
+    },
+    {
+        "occ_title": "Waiters and waitresses",
+        "cenocc": "4110",
+        "soc": "35-3031"
+    },
+    {
+        "occ_title": "Food servers, nonrestaurant",
+        "cenocc": "4120",
+        "soc": "35-3041"
+    },
+    {
+        "occ_title": "Dining room and cafeteria attendants and bartender helpers",
+        "cenocc": "4130",
+        "soc": "35-9011"
+    },
+    {
+        "occ_title": "Dishwashers",
+        "cenocc": "4140",
+        "soc": "35-9021"
+    },
+    {
+        "occ_title": "Hosts and hostesses, restaurant, lounge, and coffee shop",
+        "cenocc": "4150",
+        "soc": "35-9031"
+    },
+    {
+        "occ_title": "Food preparation and serving related workers, all other",
+        "cenocc": "4160",
+        "soc": "35-9099"
+    },
+    {
+        "occ_title": "First-line supervisors of housekeeping and janitorial workers",
+        "cenocc": "4200",
+        "soc": "37-1011"
+    },
+    {
+        "occ_title": "First-line supervisors of landscaping, lawn service, and groundskeeping workers",
+        "cenocc": "4210",
+        "soc": "37-1012"
+    },
+    {
+        "occ_title": "Janitors and building cleaners",
+        "cenocc": "4220",
+        "soc": "37-201X"
+    },
+    {
+        "occ_title": "Maids and housekeeping cleaners",
+        "cenocc": "4230",
+        "soc": "37-2012"
+    },
+    {
+        "occ_title": "Pest control workers",
+        "cenocc": "4240",
+        "soc": "37-2021"
+    },
+    {
+        "occ_title": "Landscaping and groundskeeping workers",
+        "cenocc": "4251",
+        "soc": "37-3011"
+    },
+    {
+        "occ_title": "Tree trimmers and pruners",
+        "cenocc": "4252",
+        "soc": "37-3013"
+    },
+    {
+        "occ_title": "Supervisors of personal care and service workers",
+        "cenocc": "4330",
+        "soc": "39-1000"
+    },
+    {
+        "occ_title": "Animal trainers",
+        "cenocc": "4340",
+        "soc": "39-2011"
+    },
+    {
+        "occ_title": "Animal caretakers",
+        "cenocc": "4350",
+        "soc": "39-2021"
+    },
+    {
+        "occ_title": "Gambling services workers",
+        "cenocc": "4400",
+        "soc": "39-3010"
+    },
+    {
+        "occ_title": "Ushers, lobby attendants, and ticket takers",
+        "cenocc": "4420",
+        "soc": "39-3031"
+    },
+    {
+        "occ_title": "Morticians, undertakers, and funeral arrangers",
+        "cenocc": "4465",
+        "soc": "39-4031"
+    },
+    {
+        "occ_title": "Barbers",
+        "cenocc": "4500",
+        "soc": "39-5011"
+    },
+    {
+        "occ_title": "Hairdressers, hairstylists, and cosmetologists",
+        "cenocc": "4510",
+        "soc": "39-5012"
+    },
+    {
+        "occ_title": "Manicurists and pedicurists",
+        "cenocc": "4521",
+        "soc": "39-5092"
+    },
+    {
+        "occ_title": "Skincare specialists",
+        "cenocc": "4522",
+        "soc": "39-5094"
+    },
+    {
+        "occ_title": "Other personal appearance workers",
+        "cenocc": "4525",
+        "soc": "39-509X"
+    },
+    {
+        "occ_title": "Baggage porters, bellhops, and concierges",
+        "cenocc": "4530",
+        "soc": "39-6010"
+    },
+    {
+        "occ_title": "Tour and travel guides",
+        "cenocc": "4540",
+        "soc": "39-7010"
+    },
+    {
+        "occ_title": "Childcare workers",
+        "cenocc": "4600",
+        "soc": "39-9011"
+    },
+    {
+        "occ_title": "Residential advisors",
+        "cenocc": "4640",
+        "soc": "39-9041"
+    },
+    {
+        "occ_title": "Personal care and service workers, all other",
+        "cenocc": "4655",
+        "soc": "39-9099"
+    },
+    {
+        "occ_title": "First-Line supervisors of retail sales workers",
+        "cenocc": "4700",
+        "soc": "41-1011"
+    },
+    {
+        "occ_title": "First-Line supervisors of non-retail sales workers",
+        "cenocc": "4710",
+        "soc": "41-1012"
+    },
+    {
+        "occ_title": "Cashiers",
+        "cenocc": "4720",
+        "soc": "41-2010"
+    },
+    {
+        "occ_title": "Counter and rental clerks",
+        "cenocc": "4740",
+        "soc": "41-2021"
+    },
+    {
+        "occ_title": "Parts salespersons",
+        "cenocc": "4750",
+        "soc": "41-2022"
+    },
+    {
+        "occ_title": "Retail salespersons",
+        "cenocc": "4760",
+        "soc": "41-2031"
+    },
+    {
+        "occ_title": "Advertising sales agents",
+        "cenocc": "4800",
+        "soc": "41-3011"
+    },
+    {
+        "occ_title": "Insurance sales agents",
+        "cenocc": "4810",
+        "soc": "41-3021"
+    },
+    {
+        "occ_title": "Securities, commodities, and financial services sales agents",
+        "cenocc": "4820",
+        "soc": "41-3031"
+    },
+    {
+        "occ_title": "Travel agents",
+        "cenocc": "4830",
+        "soc": "41-3041"
+    },
+    {
+        "occ_title": "Sales representatives of services, except advertising, insurance, financial services, and travel",
+        "cenocc": "4840",
+        "soc": "41-3091"
+    },
+    {
+        "occ_title": "Sales representatives, wholesale and manufacturing",
+        "cenocc": "4850",
+        "soc": "41-4010"
+    },
+    {
+        "occ_title": "Models, demonstrators, and product promoters",
+        "cenocc": "4900",
+        "soc": "41-9010"
+    },
+    {
+        "occ_title": "Real estate brokers and sales agents",
+        "cenocc": "4920",
+        "soc": "41-9020"
+    },
+    {
+        "occ_title": "Sales engineers",
+        "cenocc": "4930",
+        "soc": "41-9031"
+    },
+    {
+        "occ_title": "Telemarketers",
+        "cenocc": "4940",
+        "soc": "41-9041"
+    },
+    {
+        "occ_title": "Door-to-door sales workers, news and street vendors, and related workers",
+        "cenocc": "4950",
+        "soc": "41-9091"
+    },
+    {
+        "occ_title": "Sales and related workers, all other",
+        "cenocc": "4965",
+        "soc": "41-9099"
+    },
+    {
+        "occ_title": "First-Line supervisors of office and administrative support workers",
+        "cenocc": "5000",
+        "soc": "43-1011"
+    },
+    {
+        "occ_title": "Switchboard operators, including answering service",
+        "cenocc": "5010",
+        "soc": "43-2011"
+    },
+    {
+        "occ_title": "Telephone operators",
+        "cenocc": "5020",
+        "soc": "43-2021"
+    },
+    {
+        "occ_title": "Communications equipment operators, all other",
+        "cenocc": "5040",
+        "soc": "43-2099"
+    },
+    {
+        "occ_title": "Bill and account collectors",
+        "cenocc": "5100",
+        "soc": "43-3011"
+    },
+    {
+        "occ_title": "Billing and posting clerks",
+        "cenocc": "5110",
+        "soc": "43-3021"
+    },
+    {
+        "occ_title": "Bookkeeping, accounting, and auditing clerks",
+        "cenocc": "5120",
+        "soc": "43-3031"
+    },
+    {
+        "occ_title": "Gambling cage workers",
+        "cenocc": "5130",
+        "soc": "43-3041"
+    },
+    {
+        "occ_title": "Payroll and timekeeping clerks",
+        "cenocc": "5140",
+        "soc": "43-3051"
+    },
+    {
+        "occ_title": "Procurement clerks",
+        "cenocc": "5150",
+        "soc": "43-3061"
+    },
+    {
+        "occ_title": "Tellers",
+        "cenocc": "5160",
+        "soc": "43-3071"
+    },
+    {
+        "occ_title": "Financial clerks, all other",
+        "cenocc": "5165",
+        "soc": "43-3099"
+    },
+    {
+        "occ_title": "Brokerage clerks",
+        "cenocc": "5200",
+        "soc": "43-4011"
+    },
+    {
+        "occ_title": "Correspondence clerks",
+        "cenocc": "5210",
+        "soc": "43-4021"
+    },
+    {
+        "occ_title": "Court, municipal, and license clerks",
+        "cenocc": "5220",
+        "soc": "43-4031"
+    },
+    {
+        "occ_title": "Credit authorizers, checkers, and clerks",
+        "cenocc": "5230",
+        "soc": "43-4041"
+    },
+    {
+        "occ_title": "Customer service representatives",
+        "cenocc": "5240",
+        "soc": "43-4051"
+    },
+    {
+        "occ_title": "Eligibility interviewers, government programs",
+        "cenocc": "5250",
+        "soc": "43-4061"
+    },
+    {
+        "occ_title": "File clerks",
+        "cenocc": "5260",
+        "soc": "43-4071"
+    },
+    {
+        "occ_title": "Hotel, motel, and resort desk clerks",
+        "cenocc": "5300",
+        "soc": "43-4081"
+    },
+    {
+        "occ_title": "Interviewers, except eligibility and loan",
+        "cenocc": "5310",
+        "soc": "43-4111"
+    },
+    {
+        "occ_title": "Library assistants, clerical",
+        "cenocc": "5320",
+        "soc": "43-4121"
+    },
+    {
+        "occ_title": "Loan interviewers and clerks",
+        "cenocc": "5330",
+        "soc": "43-4131"
+    },
+    {
+        "occ_title": "New accounts clerks",
+        "cenocc": "5340",
+        "soc": "43-4141"
+    },
+    {
+        "occ_title": "Order clerks",
+        "cenocc": "5350",
+        "soc": "43-4151"
+    },
+    {
+        "occ_title": "Human resources assistants, except payroll and timekeeping",
+        "cenocc": "5360",
+        "soc": "43-4161"
+    },
+    {
+        "occ_title": "Receptionists and information clerks",
+        "cenocc": "5400",
+        "soc": "43-4171"
+    },
+    {
+        "occ_title": "Reservation and transportation ticket agents and travel clerks",
+        "cenocc": "5410",
+        "soc": "43-4181"
+    },
+    {
+        "occ_title": "Information and record clerks, all other",
+        "cenocc": "5420",
+        "soc": "43-4199"
+    },
+    {
+        "occ_title": "Cargo and freight agents",
+        "cenocc": "5500",
+        "soc": "43-5011"
+    },
+    {
+        "occ_title": "Couriers and messengers",
+        "cenocc": "5510",
+        "soc": "43-5021"
+    },
+    {
+        "occ_title": "Meter readers, utilities",
+        "cenocc": "5530",
+        "soc": "43-5041"
+    },
+    {
+        "occ_title": "Postal service clerks",
+        "cenocc": "5540",
+        "soc": "43-5051"
+    },
+    {
+        "occ_title": "Postal service mail carriers",
+        "cenocc": "5550",
+        "soc": "43-5052"
+    },
+    {
+        "occ_title": "Postal service mail sorters, processors, and processing machine operators",
+        "cenocc": "5560",
+        "soc": "43-5053"
+    },
+    {
+        "occ_title": "Production, planning, and expediting clerks",
+        "cenocc": "5600",
+        "soc": "43-5061"
+    },
+    {
+        "occ_title": "Shipping, receiving, and inventory clerks",
+        "cenocc": "5610",
+        "soc": "43-5071"
+    },
+    {
+        "occ_title": "Weighers, measurers, checkers, and samplers, recordkeeping",
+        "cenocc": "5630",
+        "soc": "43-5111"
+    },
+    {
+        "occ_title": "Executive secretaries and executive administrative assistants",
+        "cenocc": "5710",
+        "soc": "43-6011"
+    },
+    {
+        "occ_title": "Legal secretaries and administrative assistants",
+        "cenocc": "5720",
+        "soc": "43-6012"
+    },
+    {
+        "occ_title": "Medical secretaries and administrative assistants",
+        "cenocc": "5730",
+        "soc": "43-6013"
+    },
+    {
+        "occ_title": "Secretaries and administrative assistants, except legal, medical, and executive",
+        "cenocc": "5740",
+        "soc": "43-6014"
+    },
+    {
+        "occ_title": "Data entry keyers",
+        "cenocc": "5810",
+        "soc": "43-9021"
+    },
+    {
+        "occ_title": "Word processors and typists",
+        "cenocc": "5820",
+        "soc": "43-9022"
+    },
+    {
+        "occ_title": "Desktop publishers",
+        "cenocc": "5830",
+        "soc": "43-9031"
+    },
+    {
+        "occ_title": "Insurance claims and policy processing clerks",
+        "cenocc": "5840",
+        "soc": "43-9041"
+    },
+    {
+        "occ_title": "Mail clerks and mail machine operators, except postal service",
+        "cenocc": "5850",
+        "soc": "43-9051"
+    },
+    {
+        "occ_title": "Office clerks, general",
+        "cenocc": "5860",
+        "soc": "43-9061"
+    },
+    {
+        "occ_title": "Office machine operators, except computer",
+        "cenocc": "5900",
+        "soc": "43-9071"
+    },
+    {
+        "occ_title": "Proofreaders and copy markers",
+        "cenocc": "5910",
+        "soc": "43-9081"
+    },
+    {
+        "occ_title": "Statistical assistants",
+        "cenocc": "5920",
+        "soc": "43-9111"
+    },
+    {
+        "occ_title": "Office and administrative support workers, all other",
+        "cenocc": "5940",
+        "soc": "43-9199"
+    },
+    {
+        "occ_title": "First-line supervisors of farming, fishing, and forestry workers",
+        "cenocc": "6005",
+        "soc": "45-1011"
+    },
+    {
+        "occ_title": "Agricultural inspectors",
+        "cenocc": "6010",
+        "soc": "45-2011"
+    },
+    {
+        "occ_title": "Animal breeders",
+        "cenocc": "6020",
+        "soc": "45-2021"
+    },
+    {
+        "occ_title": "Graders and sorters, agricultural products",
+        "cenocc": "6040",
+        "soc": "45-2041"
+    },
+    {
+        "occ_title": "Miscellaneous agricultural workers",
+        "cenocc": "6050",
+        "soc": "45-2090"
+    },
+    {
+        "occ_title": "Fishing and hunting workers",
+        "cenocc": "6115",
+        "soc": "45-3031"
+    },
+    {
+        "occ_title": "Forest and conservation workers",
+        "cenocc": "6120",
+        "soc": "45-4011"
+    },
+    {
+        "occ_title": "Logging workers",
+        "cenocc": "6130",
+        "soc": "45-4020"
+    },
+    {
+        "occ_title": "First-line supervisors of construction trades and extraction workers",
+        "cenocc": "6200",
+        "soc": "47-1011"
+    },
+    {
+        "occ_title": "Boilermakers",
+        "cenocc": "6210",
+        "soc": "47-2011"
+    },
+    {
+        "occ_title": "Brickmasons, blockmasons, and stonemasons",
+        "cenocc": "6220",
+        "soc": "47-2020"
+    },
+    {
+        "occ_title": "Carpenters",
+        "cenocc": "6230",
+        "soc": "47-2031"
+    },
+    {
+        "occ_title": "Carpet, floor, and tile installers and finishers",
+        "cenocc": "6240",
+        "soc": "47-2040"
+    },
+    {
+        "occ_title": "Cement masons, concrete finishers, and terrazzo workers",
+        "cenocc": "6250",
+        "soc": "47-2050"
+    },
+    {
+        "occ_title": "Construction laborers",
+        "cenocc": "6260",
+        "soc": "47-2061"
+    },
+    {
+        "occ_title": "Construction equipment operators",
+        "cenocc": "6305",
+        "soc": "47-2070"
+    },
+    {
+        "occ_title": "Drywall installers, ceiling tile installers, and tapers",
+        "cenocc": "6330",
+        "soc": "47-2080"
+    },
+    {
+        "occ_title": "Electricians",
+        "cenocc": "6355",
+        "soc": "47-2111"
+    },
+    {
+        "occ_title": "Glaziers",
+        "cenocc": "6360",
+        "soc": "47-2121"
+    },
+    {
+        "occ_title": "Insulation workers",
+        "cenocc": "6400",
+        "soc": "47-2130"
+    },
+    {
+        "occ_title": "Painters and paperhangers",
+        "cenocc": "6410",
+        "soc": "47-2140"
+    },
+    {
+        "occ_title": "Plasterers and stucco masons",
+        "cenocc": "6460",
+        "soc": "47-2161"
+    },
+    {
+        "occ_title": "Reinforcing iron and rebar workers",
+        "cenocc": "6500",
+        "soc": "47-2171"
+    },
+    {
+        "occ_title": "Roofers",
+        "cenocc": "6515",
+        "soc": "47-2181"
+    },
+    {
+        "occ_title": "Sheet metal workers",
+        "cenocc": "6520",
+        "soc": "47-2211"
+    },
+    {
+        "occ_title": "Structural iron and steel workers",
+        "cenocc": "6530",
+        "soc": "47-2221"
+    },
+    {
+        "occ_title": "Solar photovoltaic installers",
+        "cenocc": "6540",
+        "soc": "47-2231"
+    },
+    {
+        "occ_title": "Helpers, construction trades",
+        "cenocc": "6600",
+        "soc": "47-3010"
+    },
+    {
+        "occ_title": "Construction and building inspectors",
+        "cenocc": "6660",
+        "soc": "47-4011"
+    },
+    {
+        "occ_title": "Elevator and escalator installers and repairers",
+        "cenocc": "6700",
+        "soc": "47-4021"
+    },
+    {
+        "occ_title": "Fence erectors",
+        "cenocc": "6710",
+        "soc": "47-4031"
+    },
+    {
+        "occ_title": "Hazardous materials removal workers",
+        "cenocc": "6720",
+        "soc": "47-4041"
+    },
+    {
+        "occ_title": "Highway maintenance workers",
+        "cenocc": "6730",
+        "soc": "47-4051"
+    },
+    {
+        "occ_title": "Rail-track laying and maintenance equipment operators",
+        "cenocc": "6740",
+        "soc": "47-4061"
+    },
+    {
+        "occ_title": "Septic tank servicers and sewer pipe cleaners",
+        "cenocc": "6750",
+        "soc": "47-4071"
+    },
+    {
+        "occ_title": "Miscellaneous construction and related workers",
+        "cenocc": "6765",
+        "soc": "47-4090"
+    },
+    {
+        "occ_title": "Derrick, rotary drill, and service unit operators, oil and gas  ",
+        "cenocc": "6800",
+        "soc": "47-5010"
+    },
+    {
+        "occ_title": "Excavating and loading machine and dragline operators, surface mining",
+        "cenocc": "6821",
+        "soc": "47-5022"
+    },
+    {
+        "occ_title": "Earth drillers, except oil and gas",
+        "cenocc": "6825",
+        "soc": "47-5023"
+    },
+    {
+        "occ_title": "Explosives workers, ordnance handling experts, and blasters",
+        "cenocc": "6835",
+        "soc": "47-5032"
+    },
+    {
+        "occ_title": "Underground mining machine operators",
+        "cenocc": "6850",
+        "soc": "47-5040"
+    },
+    {
+        "occ_title": "Roustabouts, oil and gas",
+        "cenocc": "6920",
+        "soc": "47-5071"
+    },
+    {
+        "occ_title": "Other extraction workers",
+        "cenocc": "6950",
+        "soc": "47-50XX"
+    },
+    {
+        "occ_title": "First-line supervisors of mechanics, installers, and repairers",
+        "cenocc": "7000",
+        "soc": "49-1011"
+    },
+    {
+        "occ_title": "Computer, automated teller, and office machine repairers",
+        "cenocc": "7010",
+        "soc": "49-2011"
+    },
+    {
+        "occ_title": "Radio and telecommunications equipment installers and repairers",
+        "cenocc": "7020",
+        "soc": "49-2020"
+    },
+    {
+        "occ_title": "Avionics technicians",
+        "cenocc": "7030",
+        "soc": "49-2091"
+    },
+    {
+        "occ_title": "Electric motor, power tool, and related repairers",
+        "cenocc": "7040",
+        "soc": "49-2092"
+    },
+    {
+        "occ_title": "Electrical and electronics installers and repairers, transportation equipment",
+        "cenocc": "7050",
+        "soc": "49-2093"
+    },
+    {
+        "occ_title": "Electrical and electronics repairers, industrial and utility ",
+        "cenocc": "7100",
+        "soc": "49-209X"
+    },
+    {
+        "occ_title": "Electronic equipment installers and repairers, motor vehicles",
+        "cenocc": "7110",
+        "soc": "49-2096"
+    },
+    {
+        "occ_title": "Audiovisual equipment installers and repairers ",
+        "cenocc": "7120",
+        "soc": "49-2097"
+    },
+    {
+        "occ_title": "Security and fire alarm systems installers",
+        "cenocc": "7130",
+        "soc": "49-2098"
+    },
+    {
+        "occ_title": "Aircraft mechanics and service technicians",
+        "cenocc": "7140",
+        "soc": "49-3011"
+    },
+    {
+        "occ_title": "Automotive body and related repairers",
+        "cenocc": "7150",
+        "soc": "49-3021"
+    },
+    {
+        "occ_title": "Automotive glass installers and repairers",
+        "cenocc": "7160",
+        "soc": "49-3022"
+    },
+    {
+        "occ_title": "Automotive service technicians and mechanics",
+        "cenocc": "7200",
+        "soc": "49-3023"
+    },
+    {
+        "occ_title": "Bus and truck mechanics and diesel engine specialists",
+        "cenocc": "7210",
+        "soc": "49-3031"
+    },
+    {
+        "occ_title": "Heavy vehicle and mobile equipment service technicians and mechanics",
+        "cenocc": "7220",
+        "soc": "49-3040"
+    },
+    {
+        "occ_title": "Small engine mechanics",
+        "cenocc": "7240",
+        "soc": "49-3050"
+    },
+    {
+        "occ_title": "Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",
+        "cenocc": "7260",
+        "soc": "49-3090"
+    },
+    {
+        "occ_title": "Control and valve installers and repairers",
+        "cenocc": "7300",
+        "soc": "49-9010"
+    },
+    {
+        "occ_title": "Heating, air conditioning, and refrigeration mechanics and installers",
+        "cenocc": "7315",
+        "soc": "49-9021"
+    },
+    {
+        "occ_title": "Home appliance repairers",
+        "cenocc": "7320",
+        "soc": "49-9031"
+    },
+    {
+        "occ_title": "Industrial and refractory machinery mechanics",
+        "cenocc": "7330",
+        "soc": "49-904X"
+    },
+    {
+        "occ_title": "Maintenance and repair workers, general",
+        "cenocc": "7340",
+        "soc": "49-9071"
+    },
+    {
+        "occ_title": "Maintenance workers, machinery",
+        "cenocc": "7350",
+        "soc": "49-9043"
+    },
+    {
+        "occ_title": "Millwrights",
+        "cenocc": "7360",
+        "soc": "49-9044"
+    },
+    {
+        "occ_title": "Electrical power-line installers and repairers",
+        "cenocc": "7410",
+        "soc": "49-9051"
+    },
+    {
+        "occ_title": "Telecommunications line installers and repairers",
+        "cenocc": "7420",
+        "soc": "49-9052"
+    },
+    {
+        "occ_title": "Precision instrument and equipment repairers",
+        "cenocc": "7430",
+        "soc": "49-9060"
+    },
+    {
+        "occ_title": "Wind turbine service technicians",
+        "cenocc": "7440",
+        "soc": "49-9081"
+    },
+    {
+        "occ_title": "Coin, vending, and amusement machine servicers and repairers",
+        "cenocc": "7510",
+        "soc": "49-9091"
+    },
+    {
+        "occ_title": "Commercial divers",
+        "cenocc": "7520",
+        "soc": "49-9092"
+    },
+    {
+        "occ_title": "Locksmiths and safe repairers",
+        "cenocc": "7540",
+        "soc": "49-9094"
+    },
+    {
+        "occ_title": "Manufactured building and mobile home installers",
+        "cenocc": "7550",
+        "soc": "49-9095"
+    },
+    {
+        "occ_title": "Riggers",
+        "cenocc": "7560",
+        "soc": "49-9096"
+    },
+    {
+        "occ_title": "Helpers--installation, maintenance, and repair workers",
+        "cenocc": "7610",
+        "soc": "49-9098"
+    },
+    {
+        "occ_title": "Other installation, maintenance, and repair workers",
+        "cenocc": "7640",
+        "soc": "49-909X"
+    },
+    {
+        "occ_title": "First-line supervisors of production and operating workers",
+        "cenocc": "7700",
+        "soc": "51-1011"
+    },
+    {
+        "occ_title": "Aircraft structure, surfaces, rigging, and systems assemblers",
+        "cenocc": "7710",
+        "soc": "51-2011"
+    },
+    {
+        "occ_title": "Electrical, electronics, and electromechanical assemblers",
+        "cenocc": "7720",
+        "soc": "51-2020"
+    },
+    {
+        "occ_title": "Engine and other machine assemblers",
+        "cenocc": "7730",
+        "soc": "51-2031"
+    },
+    {
+        "occ_title": "Structural metal fabricators and fitters",
+        "cenocc": "7740",
+        "soc": "51-2041"
+    },
+    {
+        "occ_title": "Other assemblers and fabricators",
+        "cenocc": "7750",
+        "soc": "51-20XX"
+    },
+    {
+        "occ_title": "Bakers",
+        "cenocc": "7800",
+        "soc": "51-3011"
+    },
+    {
+        "occ_title": "Butchers and other meat, poultry, and fish processing workers",
+        "cenocc": "7810",
+        "soc": "51-3020"
+    },
+    {
+        "occ_title": "Food and tobacco roasting, baking, and drying machine operators and tenders",
+        "cenocc": "7830",
+        "soc": "51-3091"
+    },
+    {
+        "occ_title": "Food batchmakers",
+        "cenocc": "7840",
+        "soc": "51-3092"
+    },
+    {
+        "occ_title": "Food cooking machine operators and tenders",
+        "cenocc": "7850",
+        "soc": "51-3093"
+    },
+    {
+        "occ_title": "Food processing workers, all other",
+        "cenocc": "7855",
+        "soc": "51-3099"
+    },
+    {
+        "occ_title": "Computer numerically controlled tool operators and programmers",
+        "cenocc": "7905",
+        "soc": "51-9160"
+    },
+    {
+        "occ_title": "Forming machine setters, operators, and tenders, metal and plastic",
+        "cenocc": "7925",
+        "soc": "51-4020"
+    },
+    {
+        "occ_title": "Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",
+        "cenocc": "7950",
+        "soc": "51-4031"
+    },
+    {
+        "occ_title": "Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",
+        "cenocc": "8000",
+        "soc": "51-4033"
+    },
+    {
+        "occ_title": "Other machine tool setters, operators, and tenders, metal and plastic",
+        "cenocc": "8025",
+        "soc": "51-403X"
+    },
+    {
+        "occ_title": "Machinists",
+        "cenocc": "8030",
+        "soc": "51-4041"
+    },
+    {
+        "occ_title": "Metal furnace operators, tenders, pourers, and casters",
+        "cenocc": "8040",
+        "soc": "51-4050"
+    },
+    {
+        "occ_title": "Model makers and patternmakers, metal and plastic",
+        "cenocc": "8060",
+        "soc": "51-4060"
+    },
+    {
+        "occ_title": "Molders and molding machine setters, operators, and tenders, metal and plastic",
+        "cenocc": "8100",
+        "soc": "51-4070"
+    },
+    {
+        "occ_title": "Tool and die makers",
+        "cenocc": "8130",
+        "soc": "51-4111"
+    },
+    {
+        "occ_title": "Welding, soldering, and brazing workers",
+        "cenocc": "8140",
+        "soc": "51-4120"
+    },
+    {
+        "occ_title": "Other metal workers and plastic workers",
+        "cenocc": "8225",
+        "soc": "51-4XXX"
+    },
+    {
+        "occ_title": "Prepress technicians and workers",
+        "cenocc": "8250",
+        "soc": "51-5111"
+    },
+    {
+        "occ_title": "Printing press operators",
+        "cenocc": "8255",
+        "soc": "51-5112"
+    },
+    {
+        "occ_title": "Print binding and finishing workers",
+        "cenocc": "8256",
+        "soc": "51-5113"
+    },
+    {
+        "occ_title": "Laundry and dry-cleaning workers",
+        "cenocc": "8300",
+        "soc": "51-6011"
+    },
+    {
+        "occ_title": "Pressers, textile, garment, and related materials",
+        "cenocc": "8310",
+        "soc": "51-6021"
+    },
+    {
+        "occ_title": "Sewing machine operators",
+        "cenocc": "8320",
+        "soc": "51-6031"
+    },
+    {
+        "occ_title": "Tailors, dressmakers, and sewers",
+        "cenocc": "8350",
+        "soc": "51-6050"
+    },
+    {
+        "occ_title": "Textile machine setters, operators, and tenders",
+        "cenocc": "8365",
+        "soc": "51-6060"
+    },
+    {
+        "occ_title": "Upholsterers",
+        "cenocc": "8450",
+        "soc": "51-6093"
+    },
+    {
+        "occ_title": "Other textile, apparel, and furnishings workers",
+        "cenocc": "8465",
+        "soc": "51-609X"
+    },
+    {
+        "occ_title": "Cabinetmakers and bench carpenters",
+        "cenocc": "8500",
+        "soc": "51-7011"
+    },
+    {
+        "occ_title": "Furniture finishers",
+        "cenocc": "8510",
+        "soc": "51-7021"
+    },
+    {
+        "occ_title": "Sawing machine setters, operators, and tenders, wood",
+        "cenocc": "8530",
+        "soc": "51-7041"
+    },
+    {
+        "occ_title": "Woodworking machine setters, operators, and tenders, except sawing",
+        "cenocc": "8540",
+        "soc": "51-7042"
+    },
+    {
+        "occ_title": "Power plant operators, distributors, and dispatchers",
+        "cenocc": "8600",
+        "soc": "51-8010"
+    },
+    {
+        "occ_title": "Stationary engineers and boiler operators",
+        "cenocc": "8610",
+        "soc": "51-8021"
+    },
+    {
+        "occ_title": "Water and wastewater treatment plant and system operators",
+        "cenocc": "8620",
+        "soc": "51-8031"
+    },
+    {
+        "occ_title": "Miscellaneous plant and system operators",
+        "cenocc": "8630",
+        "soc": "51-8090"
+    },
+    {
+        "occ_title": "Chemical processing machine setters, operators, and tenders",
+        "cenocc": "8640",
+        "soc": "51-9010"
+    },
+    {
+        "occ_title": "Crushing, grinding, polishing, mixing, and blending workers",
+        "cenocc": "8650",
+        "soc": "51-9020"
+    },
+    {
+        "occ_title": "Cutting workers",
+        "cenocc": "8710",
+        "soc": "51-9030"
+    },
+    {
+        "occ_title": "Extruding, forming, pressing, and compacting machine setters, operators, and tenders",
+        "cenocc": "8720",
+        "soc": "51-9041"
+    },
+    {
+        "occ_title": "Furnace, kiln, oven, drier, and kettle operators and tenders",
+        "cenocc": "8730",
+        "soc": "51-9051"
+    },
+    {
+        "occ_title": "Inspectors, testers, sorters, samplers, and weighers",
+        "cenocc": "8740",
+        "soc": "51-9061"
+    },
+    {
+        "occ_title": "Jewelers and precious stone and metal workers",
+        "cenocc": "8750",
+        "soc": "51-9071"
+    },
+    {
+        "occ_title": "Dental and ophthalmic laboratory technicians and medical appliance technicians",
+        "cenocc": "8760",
+        "soc": "51-9080"
+    },
+    {
+        "occ_title": "Packaging and filling machine operators and tenders",
+        "cenocc": "8800",
+        "soc": "51-9111"
+    },
+    {
+        "occ_title": "Painting workers",
+        "cenocc": "8810",
+        "soc": "51-9120"
+    },
+    {
+        "occ_title": "Photographic process workers and processing machine operators",
+        "cenocc": "8830",
+        "soc": "51-9151"
+    },
+    {
+        "occ_title": "Adhesive bonding machine operators and tenders",
+        "cenocc": "8850",
+        "soc": "51-9191"
+    },
+    {
+        "occ_title": "Etchers and engravers",
+        "cenocc": "8910",
+        "soc": "51-9194"
+    },
+    {
+        "occ_title": "Molders, shapers, and casters, except metal and plastic",
+        "cenocc": "8920",
+        "soc": "51-9195"
+    },
+    {
+        "occ_title": "Paper goods machine setters, operators, and tenders",
+        "cenocc": "8930",
+        "soc": "51-9196"
+    },
+    {
+        "occ_title": "Tire builders",
+        "cenocc": "8940",
+        "soc": "51-9197"
+    },
+    {
+        "occ_title": "Helpers--production workers",
+        "cenocc": "8950",
+        "soc": "51-9198"
+    },
+    {
+        "occ_title": "Other production equipment operators and tenders",
+        "cenocc": "8865",
+        "soc": "51-919X"
+    },
+    {
+        "occ_title": "Other production workers",
+        "cenocc": "8990",
+        "soc": "51-91XX"
+    },
+    {
+        "occ_title": "Supervisors of transportation and material moving workers",
+        "cenocc": "9005",
+        "soc": "53-1000"
+    },
+    {
+        "occ_title": "Aircraft pilots and flight engineers",
+        "cenocc": "9030",
+        "soc": "53-2010"
+    },
+    {
+        "occ_title": "Air traffic controllers and airfield operations specialists",
+        "cenocc": "9040",
+        "soc": "53-2020"
+    },
+    {
+        "occ_title": "Flight attendants",
+        "cenocc": "9050",
+        "soc": "53-2031"
+    },
+    {
+        "occ_title": "Ambulance drivers and attendants, except emergency medical technicians",
+        "cenocc": "9110",
+        "soc": "53-3011"
+    },
+    {
+        "occ_title": "Driver/sales workers and truck drivers",
+        "cenocc": "9130",
+        "soc": "53-3030"
+    },
+    {
+        "occ_title": "Motor vehicle operators, all other",
+        "cenocc": "9150",
+        "soc": "53-3099"
+    },
+    {
+        "occ_title": "Locomotive engineers and operators",
+        "cenocc": "9210",
+        "soc": "53-4010"
+    },
+    {
+        "occ_title": "Railroad conductors and yardmasters",
+        "cenocc": "9240",
+        "soc": "53-4031"
+    },
+    {
+        "occ_title": "Sailors and marine oilers",
+        "cenocc": "9300",
+        "soc": "53-5011"
+    },
+    {
+        "occ_title": "Ship and boat captains and operators",
+        "cenocc": "9310",
+        "soc": "53-5020"
+    },
+    {
+        "occ_title": "Ship engineers ",
+        "cenocc": "9330",
+        "soc": "53-5031"
+    },
+    {
+        "occ_title": "Parking attendants",
+        "cenocc": "9350",
+        "soc": "53-6021"
+    },
+    {
+        "occ_title": "Transportation service attendants",
+        "cenocc": "9365",
+        "soc": "53-6030"
+    },
+    {
+        "occ_title": "Transportation inspectors",
+        "cenocc": "9410",
+        "soc": "53-6051"
+    },
+    {
+        "occ_title": "Passenger attendants",
+        "cenocc": "9415",
+        "soc": "53-6061"
+    },
+    {
+        "occ_title": "Other transportation workers",
+        "cenocc": "9430",
+        "soc": "53-60XX"
+    },
+    {
+        "occ_title": "Crane and tower operators",
+        "cenocc": "9510",
+        "soc": "53-7021"
+    },
+    {
+        "occ_title": "Conveyor, dredge, and hoist and winch operators",
+        "cenocc": "9570",
+        "soc": "53-70XX"
+    },
+    {
+        "occ_title": "Industrial truck and tractor operators",
+        "cenocc": "9600",
+        "soc": "53-7051"
+    },
+    {
+        "occ_title": "Cleaners of vehicles and equipment",
+        "cenocc": "9610",
+        "soc": "53-7061"
+    },
+    {
+        "occ_title": "Laborers and freight, stock, and material movers, hand",
+        "cenocc": "9620",
+        "soc": "53-7062"
+    },
+    {
+        "occ_title": "Machine feeders and offbearers",
+        "cenocc": "9630",
+        "soc": "53-7063"
+    },
+    {
+        "occ_title": "Packers and packagers, hand",
+        "cenocc": "9640",
+        "soc": "53-7064"
+    },
+    {
+        "occ_title": "Stockers and order fillers",
+        "cenocc": "9645",
+        "soc": "53-7065"
+    },
+    {
+        "occ_title": "Pumping station operators",
+        "cenocc": "9650",
+        "soc": "53-7070"
+    },
+    {
+        "occ_title": "Refuse and recyclable material collectors",
+        "cenocc": "9720",
+        "soc": "53-7081"
+    },
+    {
+        "occ_title": "Other material moving workers",
+        "cenocc": "9760",
+        "soc": "53-71XX"
+    },
+    {
+        "occ_title": "Military officer special and tactical operations leaders",
+        "cenocc": "9800",
+        "soc": "55-1010"
+    },
+    {
+        "occ_title": "First-line enlisted military supervisors",
+        "cenocc": "9810",
+        "soc": "55-2010"
+    },
+    {
+        "occ_title": "Military enlisted tactical operations and air/weapons specialists and crew members",
+        "cenocc": "9825",
+        "soc": "55-3010"
+    },
+    {
+        "occ_title": "Military, rank not Specified",
+        "cenocc": "9830",
+        "soc": "none"
+    },
+    {
+        "occ_title": "Unemployed, with no work experience in the last 5 years or earlier or never worked",
+        "cenocc": "9920",
+        "soc": "none"
+    }
+]
